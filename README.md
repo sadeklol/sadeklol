@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <p align="center">
-  <a href ="https://feds.lol/r6">
-    <img src="https://lanyard.cnrad.dev/api/513066398847729696"/>
+  <a href ="https://feds.lol/sadek">
+    <img src="https://lanyard.cnrad.dev/api/880376950647054397"/>
 </a><br><br>
   <p align="left">
-   <a href ="https://discord.com/channels/@me/513066398847729696">
+   <a href ="https://discord.com/channels/@me/880376950647054397">
   <img src="[https://cdn.discordapp.com/avatars/513066398847729696/5591a8192534d600b457e1316139b47d](https://cdn.discordapp.com/avatars/513066398847729696/5591a8192534d600b457e1316139b47d.png?size=2048)"/>
     </a><br><br>
     <p align="center">
-  <a href="https://github.com/443-Sadekk">
-<img src="https://github-readme-stats.vercel.app/api?username=443-Sadekk&show_icons=true&theme=dark">
+  <a href="https://github.com/sadekbtw">
+<img src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=dark">
     <p align=right
 </a>
 </p>
