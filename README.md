@@ -15,5 +15,5 @@ Currently learning JavaScript
     <a href="https://discord.gg/snoway">Discord Server  </a>
      
  # Statistics
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=zrSadek&show_icons=true&theme=tokyonight">  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadekbtw&show_icons=true&theme=tokyonight">  
 
