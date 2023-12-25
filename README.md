@@ -4,7 +4,7 @@
 <p align="center">
     Sadek
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=zrSadek">
+<img src="https://komarev.com/ghpvc/?username=sadekbtw">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-2/880376950647054397.png"/>
