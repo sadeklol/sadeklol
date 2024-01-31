@@ -14,6 +14,3 @@ Currently learning JavaScript
 <p align="center">  
     <a href="https://discord.gg/snoway">Discord Server  </a>
      
- # Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=sadekbtw&show_icons=true&theme=tokyonight">  
-
